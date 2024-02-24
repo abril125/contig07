@@ -1,4 +1,9 @@
-#Pipline ordered in steps followed with code and short descrtiption
+#
+Pipline ordered in steps followed with code and short descrtiption
+
+In this report we were given a fasta file, belonging to the Nematode species which we identified using blast. 
+With this file(contig07), we have the aim of recognizing to which gene annotations it corresponds to using ab-initio tools. 
+Then, to use a protein blast to characterize the annotations by function.
 
 #Step 1: ...
 
